@@ -1,0 +1,4 @@
+﻿file,source_line,replacement_line,note
+Source/src/Form/frmCharacter.frm,"                MsgBox lngCount & ""行目の文字列が正規表現として認識できません。"", vbOKOnly + vbExclamation, C_TITLE","                MsgBox ""Line "" & lngCount & "": the text cannot be recognized as a regular expression."", vbOKOnly + vbExclamation, C_TITLE",sentence order differs from Japanese
+Source/src/Form/frmFusen.frm,"    cboVerticalAnchor.AddItem ""中""","    cboVerticalAnchor.AddItem ""Middle""",vertical anchor: Middle (shared key '中' = Center)
+Source/src/Form/frmCombo.frm,"        If WS.Cells(i, C_COM_USE).Value <> ""－"" And WS.Cells(i, C_COM_CATEGORY).Value <> ""まとめ実行"" Then","        If WS.Cells(i, C_COM_USE).Value <> ""－"" And WS.Cells(i, C_COM_CATEGORY).Value <> ""まとめ実行"" Then",functional: compares with Japanese category text stored in the xlam data sheet
