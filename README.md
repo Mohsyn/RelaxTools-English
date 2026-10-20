@@ -1,100 +1,103 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/wiki/RelaxTools/RelaxTools-Addin/image/RelaxChan.png" />  
-  <h2 align="center">RelaxTools Addin For Excel 2013/2016/2019/Office365</h2>
-  <p align="center">各種変換、編集、検索などの機能追加を行うツールです。</p>
-  <p align="center">Copyright(C) Yasuhiro Watanabe 2009</p>
+  <h2 align="center">RelaxTools Addin For Excel 2013/2016/2019/Office365 (English Version)</h2>
+  <p align="center">A versatile Excel add-in for conversion, editing, searching, and advanced formatting utilities.</p>
+  <p align="center">Original Copyright (C) Yasuhiro Watanabe 2009 | English Fork by Mohsyn</p>
 </p>
 
 ---
 
-* 対応OS: Windows10/Windows11(macには対応していません)
-* 対応Excel: 2013, 2016, 2019, Office365(Desktop)
+* **Supported OS**: Windows 10 / Windows 11 (macOS is not supported)
+* **Supported Excel**: 2013, 2016, 2019, Office365 (Desktop)
 
-5年間(2009年～)にわたって作成したマクロを汎用的、体系的にまとめました。
-そのため非常に多機能なツールとなります。
-代表的な機能をあげますと
+This add-in systematically aggregates and refines macros developed across several years into a comprehensive toolkit containing **over 250 functions**.
 
-* Excelブック内部のGrep／置換が可能。
-* Excel表をHTML変換。（Excelをデザイナとして利用可能）
-* シェイプ内の文字列またはセルの正規表現検索および置換
-* ２００７互換のプレビュー画面表示
-* 同名のブックを開く（読み取り専用のみ）
-* セルの重複チェック／文字数／バイト数の確認
-* 半角／全角／数値／英字／英数字／日付チェックおよび主なチェックデジットチェック  等
-* セルの前後のトリム／文字挿入／文字削除／改行削除  等
-* 大文字／小文字／ひらがな／カタカナ／全角／半角変換  等
-* ボタン１つで行列の入れ替え／縦方向に結合など標準で無い機能
-* 強調用シェイプ（長方形・楕円・矢印・ふきだし）
-* 画像大小、矢印をまっすぐにするなどの調整機能。
-* ブック名をクリップボードに張付、現在のブックの場所をエクスプローラで開く
-* ２００３互換の色パレット
-* 選択範囲を上下左右に移動
-* シートの管理（シート名のソート、選択、表示／非表示、削除）
-* ブックをシートごとに分割、複数ブックを１つにマージ
-* 保存時に、カーソルをＡ１に自動設定する
-* ブックの簡易世代管理
-* かんたんに表を作成する機能(特にテーブル機能が使いづらいという方に)
-* ＥＸＣＥＬ表を文字列罫線に変換する機能
-* 職印機能（データ印、認め印、ビジネス印）
-* ファイルの一覧を作成する機能
-* ファイルツリーを作成する機能
-* セルの文字からフォルダを作成する機能
-* ＳＱＬを整形する機能
-* セルを外部エディタで編集する機能
-* イメージをファイルに出力する機能。
-* RelaxToolsのほとんどの機能をショートカットキーに割り振る機能。
-* Ｆ１キーを無効にする機能。
-* Wordのように段落番号(1.1.1等)を振る機能。
-* 段落番号をもとに目次を作成する機能。
-* 十字カーソルを表示する機能。
-* エクスプローラからファイルの一覧を取得。
-* ファイル一覧またはブック名からエクスプローラでコピーが可能。
-* 付箋作成機能。
-* Excel/Word/PowerPointのページ数カウント
-* VBAのステップカウント
-* バージョン管理クライアント「TortoiseSVN」「TortoiseGit」に対応。Commit, Revert が簡単に。
-・・・などなど250を超える機能を搭載
+### Key Features
+* **Excel Grep & Replace**: Fast search and replacement within workbooks and external files.
+* **HTML Table Export**: Convert Excel tables directly to HTML (ideal for using Excel as a UI/layout designer).
+* **Regex Search & Replace**: Regular expression search and replace within cells or shape text.
+* **2007-compatible print preview** screen support.
+* **Open Duplicate Books**: Open workbooks with identical filenames (read-only mode).
+* **Data Verification & Checking**:
+  * Check for duplicate cells, character counts, and byte length.
+  * Validate Half-width / Full-width / Numeric / Alphabetic / Alphanumeric / Date formatting and check digits (Luhn, Modulus 10/11, Corporate number, etc.).
+* **Text Manipulation**:
+  * Trim leading/trailing whitespace, insert/delete characters, remove line breaks.
+  * Case/character conversion: Uppercase, Lowercase, Hiragana, Katakana, Full-width, Half-width.
+* **Table & Structure Tools**:
+  * 1-click row/column transpose, vertical merge, and advanced grid generation.
+  * Convert Excel tables into ASCII/Unicode text border representations.
+* **Shapes & Visual Aids**:
+  * Highlight shapes (rectangles, ellipses, arrows, callouts).
+  * Shape alignment utilities (straighten arrows, equalize dimensions).
+  * Cross-line cursor for large data navigation.
+  * Sticky notes (Fusen) creation.
+* **Workbook & Sheet Management**:
+  * Copy book path/name to clipboard, open current workbook folder in Explorer.
+  * Sheet manager: sort sheet names, batch select, show/hide, bulk delete.
+  * Split workbook by worksheet, merge multiple workbooks into one.
+  * Auto-reset cursor to **A1 (Home position)** upon saving.
+  * Lightweight workbook version/generation management.
+* **Developer & System Tools**:
+  * SQL formatter & External editor integration for cell content.
+  * Export embedded images to files.
+  * Export file list / file tree structure into spreadsheets.
+  * Generate folder structures from cell text lists.
+  * Version control integration: quick Commit/Revert with TortoiseSVN and TortoiseGit.
+  * Page counter for Excel/Word/PowerPoint documents; VBA line/step counter.
+  * Assign almost any RelaxTools function to custom shortcut keys; disable the F1 key.
+  * Auto paragraph numbering (e.g. 1.1.1) and table of contents generation.
+  * Digital stamp / Seal utilities (data stamp, approval stamp, business stamp).
 
 ---
 
-## ファイルの内容
-* README.txt                     ・・・・・・・・ 本書です。
-* RelaxTools.xlam                ・・・・・・・・ RelaxTools本体
-* install.vbs                    ・・・・・・・・ インストールに使用します。
-* Section_No_Manual.xlsx         ・・・・・・・・ 段落番号の使用説明書です。
-* relaxtools.png                 ・・・・・・・・ アイコンファイルご自由にお使いください。
-* ExcelReadOnly.vbs              ・・・・・・・・ エクスプローラの右クリックメニューに「読み取り専用で開く」を追加するスクリプト
-* ExcelSetHomePosition.vbs       ・・・・・・・・ ホームポジション設定スクリプト
-* keyConfig                      ・・・・・・・・ おすすめショートカットキー設定ファイルフォルダ
+## File Contents
+* `README.md` — This English guide.
+* `README_JP.md` — Original Japanese guide.
+* `RelaxTools.xlam` — Original RelaxTools add-in package.
+* `RelaxTools_EN.xlam` — Generated English version of the add-in.
+* `install.vbs` — Installation script.
+* `Section_No_Manual.xlsx` — User guide for paragraph numbering features.
+* `relaxtools.png` — Icon asset.
+* `ExcelReadOnly.vbs` — Adds "Open as Read-Only" to Windows Explorer context menu.
+* `ExcelSetHomePosition.vbs` — Utility script to set cursor home positions.
+* `keyConfig/` — Recommended shortcut key configuration files.
+* `Source/` — Original Japanese source tree (VBA modules, forms, classes, XML).
+* `Source_EN/` — Generated English source tree.
+* `i18n/` — Automated localization and string tracking pipeline.
 
-* Source                         ・・・・・・・・ ソースフォルダ
+---
 
-## インストール／バージョンアップ方法
-* Excelが起動していないことを確認する。起動している場合は終了する。
-* install.vbs を実行する。
-(途中、ファイルのプロパティが表示されるので「ブロックの解除」を行う)
-* Excelを起動し「RelaxTools」タブが表示されることを確認する。
+## Installation / Update Instructions
+1. Make sure Microsoft Excel is not running (close Excel if open).
+2. Right-click `RelaxTools.xlam` (or `RelaxTools_EN.xlam`), open **Properties**, and check **Unblock** if Windows flagged it as downloaded from the internet.
+3. Run `install.vbs`.
+4. Launch Excel and verify that the `RelaxTools` tab appears in the ribbon.
 
-## 設定のリセット(調子が悪い、エラーがでる場合におためしを)
-* RelaxToolsヘルプ　→　「RelaxToolsの初期化」ボタンを押下する。
+### Resetting Settings
+* RelaxTools Help → Click **Initialize RelaxTools** (RelaxToolsの初期化).
 
-## アンインストール方法
-* RelaxToolsヘルプ　→　「RelaxToolsのアンインストール」ボタンを押下する。
+### Uninstallation
+* RelaxTools Help → Click **Uninstall RelaxTools** (RelaxToolsのアンインストール).
 
-## 使用方法
- 使用方法についてはRelaxToolsを起動した後、ヘルプを表示してください。
- メニューにカーソルを当てることでポップアップヘルプを表示することが可能です。
+---
 
-## サポート
- 当ソフトはフリーソフトウェアです。
- 個人・法人に限らず利用者は自由に使用および配布することができますが、著作権は作者にあります。
- 当ソフトを使用した事によるいかなる損害も作者は一切の責任を負いません。
- 
- ソースを利用する場合にはMITライセンスです。
+## Localization & Upstream Sync Pipeline
+This repository includes a future-proof, automated localization pipeline in `i18n/`:
 
-* 作者：Yasuhiro Watanabe
-* メールアドレス：relaxtools※opensquare.net
-* サポートホームページ：https://software.opensquare.net/relaxtools/
+* **`i18n/strings_raw.csv`**: Central translation table containing all extracted strings (code comments, string literals, form captions, customUI XML attributes, and XLAM HELP sheet cells).
+* **`i18n/extract_strings.py`**: Scans the source tree for Japanese text and merges with existing translations.
+* **`i18n/diff_strings.py`**: Compares versions during upstream updates to flag new strings (`i18n/new_strings.csv`).
+* **`i18n/apply_translations.py`**: Injects approved translations into `Source_EN/`.
+* **`i18n/apply_xlam_help.py`**: Patches the HELP sheet inside the XLAM package.
+* **`sync_upstream.ps1`**: Syncs from a fresh upstream release ZIP and flags newly introduced strings.
+* **`build_english.ps1`**: Applies all approved translations to generate `Source_EN/` and `RelaxTools_EN.xlam`.
 
-※は@マークに置き換えてください。
+Refer to [`i18n/README.md`](file:///d:/aaa/relax_ag/RelaxTools-Addin-master/i18n/README.md) for full instructions.
 
+---
+
+## License & Credits
+* Original Author: **Yasuhiro Watanabe** ([RelaxTools/RelaxTools-Addin](https://github.com/RelaxTools/RelaxTools-Addin))
+* English Localization Fork: **Mohsyn** ([Mohsyn/RelaxTools-Addin](https://github.com/Mohsyn/RelaxTools-Addin))
+* License: **MIT License** (refer to `LICENSE` file)
