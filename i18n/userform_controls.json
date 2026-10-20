@@ -1,0 +1,3922 @@
+[
+  {
+    "form": "frmReplace",
+    "control": "Label1",
+    "caption": "文字列置換を適用するフォルダを入力してください。"
+  },
+  {
+    "form": "frmReplace",
+    "control": "chkSubFolder",
+    "caption": "サブフォルダ以下のファイルも対象とする。"
+  },
+  {
+    "form": "frmReplace",
+    "control": "cmdRun",
+    "caption": "置換"
+  },
+  {
+    "form": "frmReplace",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmReplace",
+    "control": "cmdFolder",
+    "caption": "フォルダを選択"
+  },
+  {
+    "form": "frmSelect",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmSelect",
+    "control": "Frame1",
+    "caption": "行"
+  },
+  {
+    "form": "frmSelect",
+    "control": "Label1",
+    "caption": "選択行数"
+  },
+  {
+    "form": "frmSelect",
+    "control": "Label3",
+    "caption": "間隔行数"
+  },
+  {
+    "form": "frmSelect",
+    "control": "Frame2",
+    "caption": "列"
+  },
+  {
+    "form": "frmSelect",
+    "control": "Label2",
+    "caption": "選択列数"
+  },
+  {
+    "form": "frmSelect",
+    "control": "Label4",
+    "caption": "間隔列数"
+  },
+  {
+    "form": "frmInputLength",
+    "control": "Frame1",
+    "caption": "数値"
+  },
+  {
+    "form": "frmInputLength",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmColor",
+    "control": "cmdColorDlg",
+    "caption": "2003互換色以外を指定"
+  },
+  {
+    "form": "frmSelectCell",
+    "control": "Frame1",
+    "caption": "条件"
+  },
+  {
+    "form": "frmSelectCell",
+    "control": "optEqual",
+    "caption": "一致するセル"
+  },
+  {
+    "form": "frmSelectCell",
+    "control": "Label1",
+    "caption": "対象文字列"
+  },
+  {
+    "form": "frmSelectCell",
+    "control": "optNot",
+    "caption": "一致しないセル"
+  },
+  {
+    "form": "frmSelectCell",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmSelectCell",
+    "control": "optFukumu",
+    "caption": "含むセル"
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "cmdFolder",
+    "caption": "フォルダを選択"
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "Label1",
+    "caption": "Javaファイルがある場所："
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "cmdRun",
+    "caption": "実行"
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "cmdCancel",
+    "caption": "終了"
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "cmdPackage",
+    "caption": "フォルダを選択"
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "Label2",
+    "caption": "Javaファイルを配置する場所："
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "chkDelete",
+    "caption": "配置後の元Javaファイルを削除する。"
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "Label3",
+    "caption": "処理結果："
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "Label5",
+    "caption": "ファイル名"
+  },
+  {
+    "form": "frmSetPackage",
+    "control": "Label9",
+    "caption": "※注意　パッケージ名＋配置する場所のパスの長さがOS規定の値を超える場合、フォルダが作成できない場合があります。"
+  },
+  {
+    "form": "frmReference",
+    "control": "Frame1",
+    "caption": "参照モード"
+  },
+  {
+    "form": "frmReference",
+    "control": "cmdRun",
+    "caption": "開く"
+  },
+  {
+    "form": "frmReference",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmReference",
+    "control": "optRef2",
+    "caption": "別ウィンドウで起動"
+  },
+  {
+    "form": "frmReference",
+    "control": "optRef1",
+    "caption": "同ウィンドウで起動"
+  },
+  {
+    "form": "frmReference",
+    "control": "Label2",
+    "caption": "別ウィンドウで表示されるため、マルチウィンドウで表示可。コピー＆ペースト等の連携で制限があります。"
+  },
+  {
+    "form": "frmReference",
+    "control": "Label3",
+    "caption": "コピー＆ペースト等の連携で制限が無いかわりにＭＤＩイメージになります。"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "Label1",
+    "caption": "ツリー構造を取得するフォルダを入力してください。"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "Frame1",
+    "caption": "ハイパーリンクを設定する項目"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "chkFile",
+    "caption": "ファイル名"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "chkFolder",
+    "caption": "フォルダ名"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "cmdRun",
+    "caption": "取得"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "cmdFolder",
+    "caption": "フォルダを選択"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "Frame2",
+    "caption": "表示設定"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "chkFileName",
+    "caption": "ファイル名をツリーに表示する"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "Frame3",
+    "caption": "セル設定"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "Label2",
+    "caption": "罫線を表示するセル幅："
+  },
+  {
+    "form": "frmTreeList",
+    "control": "lblBack",
+    "caption": "フォルダを選択し、取得ボタンを押下してください。"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "optViewSheet",
+    "caption": "Excelファイルの中のシートを表示する"
+  },
+  {
+    "form": "frmTreeList",
+    "control": "Label3",
+    "caption": "(処理は遅くなります)"
+  },
+  {
+    "form": "frmGridText",
+    "control": "Frame1",
+    "caption": "桁指定"
+  },
+  {
+    "form": "frmGridText",
+    "control": "Label1",
+    "caption": "なるべく"
+  },
+  {
+    "form": "frmGridText",
+    "control": "Label2",
+    "caption": "桁以下に収まるようにする。"
+  },
+  {
+    "form": "frmGridText",
+    "control": "cmdRun",
+    "caption": "実行(クリップボード貼付)"
+  },
+  {
+    "form": "frmGridText",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmGridText",
+    "control": "chkKetaEnabled",
+    "caption": "桁指定を行う"
+  },
+  {
+    "form": "frmGridText",
+    "control": "chkDate",
+    "caption": "日付についても折り返しを行う。"
+  },
+  {
+    "form": "frmGridText",
+    "control": "chkNum",
+    "caption": "数値についても折り返しを行う。"
+  },
+  {
+    "form": "frmGridText",
+    "control": "Label3",
+    "caption": "（最小フィールドでも２バイト必要とします。）"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Label3",
+    "caption": "章番号"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Label4",
+    "caption": "レベル"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Frame7",
+    "caption": "追加可能な段落番号"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "chkUseFormat",
+    "caption": "有効"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "cmdOk",
+    "caption": "設定"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "cmdAdd",
+    "caption": "追加"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "cmdDel",
+    "caption": "削除"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Label5",
+    "caption": "フォント"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Label6",
+    "caption": "書式"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Label10",
+    "caption": "段落番号"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Frame8",
+    "caption": "プレビュー"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Frame9",
+    "caption": "通常行の書式"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "chkUseFormat2",
+    "caption": "有効"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Label13",
+    "caption": "各段落番号を通常行に戻す際の標準のフォントを指定してください。"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Frame10",
+    "caption": "設定中の段落番号"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Frame11",
+    "caption": "段落番号に付加する書式"
+  },
+  {
+    "form": "frmSectionEx",
+    "control": "Label15",
+    "caption": "段落番号と一緒に書式を指定する場合に指定してください。"
+  },
+  {
+    "form": "frmEdit",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmEdit",
+    "control": "cmdFormatSql",
+    "caption": "美しすぎるSQL整形"
+  },
+  {
+    "form": "frmEdit",
+    "control": "optFormura",
+    "caption": "値／式(セル反映可)"
+  },
+  {
+    "form": "frmEdit",
+    "control": "optValue",
+    "caption": "計算結果(セル反映不可)"
+  },
+  {
+    "form": "frmEdit",
+    "control": "Label1",
+    "caption": "※「値／式」を修正しても「表示」には即時反映されませんのであしからず。"
+  },
+  {
+    "form": "frmEdit",
+    "control": "cmdReload",
+    "caption": "セル反映のみ"
+  },
+  {
+    "form": "frmEdit",
+    "control": "cmdFormatXML",
+    "caption": "美しすぎるXML整形"
+  },
+  {
+    "form": "frmContents",
+    "control": "cmdOk",
+    "caption": "作成"
+  },
+  {
+    "form": "frmContents",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmContents",
+    "control": "Frame1",
+    "caption": "対象シート選択"
+  },
+  {
+    "form": "frmContents",
+    "control": "chkHyperLink",
+    "caption": "目次にハイパーリンクを設定する"
+  },
+  {
+    "form": "frmContents",
+    "control": "Label5",
+    "caption": "シート名"
+  },
+  {
+    "form": "frmContents",
+    "control": "Label7",
+    "caption": "目次の対象となるシートを選択してください。複数選択するとページ数を合算します。"
+  },
+  {
+    "form": "frmContents",
+    "control": "Frame3",
+    "caption": "出力する段落番号レベル"
+  },
+  {
+    "form": "frmContents",
+    "control": "Label8",
+    "caption": "レベル以上を出力"
+  },
+  {
+    "form": "frmContents",
+    "control": "Frame4",
+    "caption": "目次ワークシートの設定"
+  },
+  {
+    "form": "frmContents",
+    "control": "chkPeriod",
+    "caption": "段落番号末尾にリーダ線「.......」を付加する"
+  },
+  {
+    "form": "frmContents",
+    "control": "optNew",
+    "caption": "新規シートに目次を作成"
+  },
+  {
+    "form": "frmContents",
+    "control": "optEmb",
+    "caption": "指定シートに埋め込む"
+  },
+  {
+    "form": "frmContents",
+    "control": "Label9",
+    "caption": "列"
+  },
+  {
+    "form": "frmContents",
+    "control": "Label10",
+    "caption": "列"
+  },
+  {
+    "form": "frmContents",
+    "control": "Label11",
+    "caption": "段落："
+  },
+  {
+    "form": "frmContents",
+    "control": "Label12",
+    "caption": "ページ："
+  },
+  {
+    "form": "frmContents",
+    "control": "Label13",
+    "caption": "以下のセルに段落番号とページ番号を埋め込む"
+  },
+  {
+    "form": "frmContents",
+    "control": "Label14",
+    "caption": "行目"
+  },
+  {
+    "form": "frmContents",
+    "control": "Label15",
+    "caption": "張り付け開始："
+  },
+  {
+    "form": "frmVersion",
+    "control": "Label1",
+    "caption": "ライセンス情報："
+  },
+  {
+    "form": "frmVersion",
+    "control": "Label2",
+    "caption": "使い方のコラムを絶賛配信中です。"
+  },
+  {
+    "form": "frmVersion",
+    "control": "Label3",
+    "caption": "サポートサイトはこちら。"
+  },
+  {
+    "form": "frmVersion",
+    "control": "Label4",
+    "caption": "ダウンロードはこちら。"
+  },
+  {
+    "form": "frmHatena",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmHatena",
+    "control": "Label1",
+    "caption": "1行目がヘッダ扱いになります。"
+  },
+  {
+    "form": "frmLoadCSV",
+    "control": "Label1",
+    "caption": "CSVファイル名を入力してください。"
+  },
+  {
+    "form": "frmLoadCSV",
+    "control": "cmdRun",
+    "caption": "取込"
+  },
+  {
+    "form": "frmLoadCSV",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmLoadCSV",
+    "control": "cmdFolder",
+    "caption": "ファイルを選択"
+  },
+  {
+    "form": "frmLoadCSV",
+    "control": "chkUTF8",
+    "caption": "UTF-8 形式"
+  },
+  {
+    "form": "frmLoadCSV",
+    "control": "lblBack",
+    "caption": "ＣＳＶファイルを選択し、取込ボタンを押下してください。"
+  },
+  {
+    "form": "frmEditEx",
+    "control": "Frame1",
+    "caption": "中間ファイルのエンコード方式"
+  },
+  {
+    "form": "frmEditEx",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmEditEx",
+    "control": "Frame2",
+    "caption": "外部エディタ(実行ファイル名をフルパスで指定)"
+  },
+  {
+    "form": "frmMaxCount",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmMaxCount",
+    "control": "Label1",
+    "caption": "バイト数最大(赤)："
+  },
+  {
+    "form": "frmMaxCount",
+    "control": "Label2",
+    "caption": "文字数最大（黄）："
+  },
+  {
+    "form": "frmMaxCount",
+    "control": "Label3",
+    "caption": "※バイト数最大と文字数数最大が同じフィールドの場合、黄のみとなります。"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Frame8",
+    "caption": "ビジネス印"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Frame2",
+    "caption": "文言"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Frame1",
+    "caption": "日付"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "optSystemDate",
+    "caption": "システム日付"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "optUserDate",
+    "caption": "指定日付"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "cmdHelp",
+    "caption": "簡易ヘルプ"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label4",
+    "caption": "例1) ee.mm.dd → 26.01.01"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label11",
+    "caption": "例2) gee.mm.dd → H26.01.01"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label12",
+    "caption": "例3) ggee.mm.dd → 平26.01.01"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label13",
+    "caption": "例4) gggee.mm.dd → 平成26.01.01"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label14",
+    "caption": "和暦の形式例(2014/01/01)"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Frame11",
+    "caption": "表示フォント"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label3",
+    "caption": "日付の形式："
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label15",
+    "caption": "その他の書式詳しくは→"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "cmdAdd",
+    "caption": "リスト追加"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "cmdDel",
+    "caption": "リスト削除"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label17",
+    "caption": "長辺幅："
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label19",
+    "caption": "色："
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label22",
+    "caption": "角丸："
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label23",
+    "caption": "文言に日付を入れる場合に「$d」と入力してください。"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Frame12",
+    "caption": "サイズ角形状/色"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Frame13",
+    "caption": "スタンプ形状"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "optRectangle",
+    "caption": "長方形"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "optSquare",
+    "caption": "正方形"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "optCircle",
+    "caption": "丸形"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Frame14",
+    "caption": "イメージの方向"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "optHolizontal",
+    "caption": "横（文字横書き）"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "optVertical",
+    "caption": "縦（文字縦書き）"
+  },
+  {
+    "form": "frmStampBz",
+    "control": "Label25",
+    "caption": "外枠："
+  },
+  {
+    "form": "frmPageList",
+    "control": "cmdOk",
+    "caption": "実行"
+  },
+  {
+    "form": "frmPageList",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmPageList",
+    "control": "Label1",
+    "caption": "フォルダ："
+  },
+  {
+    "form": "frmPageList",
+    "control": "chkSubFolder",
+    "caption": "サブフォルダ以下のファイルも検索する。"
+  },
+  {
+    "form": "frmPageList",
+    "control": "lblBack",
+    "caption": "条件を入力し、実行ボタンを押下してください。"
+  },
+  {
+    "form": "frmPageList",
+    "control": "Frame1",
+    "caption": "カウント対象ファイル"
+  },
+  {
+    "form": "frmPageList",
+    "control": "chkExcelSheet",
+    "caption": "Excelはシート毎にカウント結果を表示する。"
+  },
+  {
+    "form": "frmReSelect",
+    "control": "Frame1",
+    "caption": "選択範囲"
+  },
+  {
+    "form": "frmReSelect",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmReSelect",
+    "control": "chkOffset",
+    "caption": "直前のカーソルの相対位置に復元"
+  },
+  {
+    "form": "frmInformation",
+    "control": "lblMessage",
+    "caption": "外部エディタ起動中です。作業を継続する場合には外部エディタを終了してください。"
+  },
+  {
+    "form": "frmFormatXml",
+    "control": "cmdOk",
+    "caption": "保存"
+  },
+  {
+    "form": "frmFormatXml",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmFormatXml",
+    "control": "Frame1",
+    "caption": "インデント"
+  },
+  {
+    "form": "frmFormatXml",
+    "control": "Label2",
+    "caption": "個"
+  },
+  {
+    "form": "frmPickSetting",
+    "control": "cmdOk",
+    "caption": "設定"
+  },
+  {
+    "form": "frmPickSetting",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmPickSetting",
+    "control": "Frame1",
+    "caption": "設定"
+  },
+  {
+    "form": "frmPickSetting",
+    "control": "chkShape",
+    "caption": "強調シェイプに適用"
+  },
+  {
+    "form": "frmPickSetting",
+    "control": "chkFusen",
+    "caption": "付箋に適用"
+  },
+  {
+    "form": "frmCombo",
+    "control": "Label1",
+    "caption": "割り当て可能な機能(ヘッダ部分で絞り込みが可能です）"
+  },
+  {
+    "form": "frmCombo",
+    "control": "Label2",
+    "caption": "カテゴリ"
+  },
+  {
+    "form": "frmCombo",
+    "control": "Label6",
+    "caption": "機能名"
+  },
+  {
+    "form": "frmCombo",
+    "control": "cmdSave",
+    "caption": "設定"
+  },
+  {
+    "form": "frmCombo",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmCombo",
+    "control": "cmdAdd",
+    "caption": "追加"
+  },
+  {
+    "form": "frmCombo",
+    "control": "Label21",
+    "caption": "設定中のまとめ実行"
+  },
+  {
+    "form": "frmCombo",
+    "control": "cmdDel",
+    "caption": "削除"
+  },
+  {
+    "form": "frmCombo",
+    "control": "Label22",
+    "caption": "RelaxTools の機能をまとめて実行することが可能です"
+  },
+  {
+    "form": "frmCombo",
+    "control": "Label23",
+    "caption": "追加する設定"
+  },
+  {
+    "form": "frmCombo",
+    "control": "Label26",
+    "caption": "機能名"
+  },
+  {
+    "form": "frmCombo",
+    "control": "Label27",
+    "caption": "カテゴリ"
+  },
+  {
+    "form": "frmDoc",
+    "control": "Frame7",
+    "caption": "フォント"
+  },
+  {
+    "form": "frmDoc",
+    "control": "Label2",
+    "caption": "ポイント"
+  },
+  {
+    "form": "frmDoc",
+    "control": "cmdOk",
+    "caption": "保存"
+  },
+  {
+    "form": "frmDoc",
+    "control": "Frame8",
+    "caption": "列のサイズ"
+  },
+  {
+    "form": "frmDoc",
+    "control": "Label3",
+    "caption": "列の幅："
+  },
+  {
+    "form": "frmDoc",
+    "control": "Frame9",
+    "caption": "表示形式"
+  },
+  {
+    "form": "frmDoc",
+    "control": "Label6",
+    "caption": "分類："
+  },
+  {
+    "form": "frmDoc",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmDoc",
+    "control": "optBunrui1",
+    "caption": "標準"
+  },
+  {
+    "form": "frmDoc",
+    "control": "optBunrui2",
+    "caption": "文字列"
+  },
+  {
+    "form": "frmDoc",
+    "control": "chkSize",
+    "caption": "幅を指定する"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "Frame1",
+    "caption": "段落番号"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "lblLevel0501",
+    "caption": "第1章 ────"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "lblLevel0502",
+    "caption": "第1節 ────"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "lblLevel0503",
+    "caption": "第1項 ────"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "cmdSetting04",
+    "caption": "設定"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "cmdSetting05",
+    "caption": "設定"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "cmdSetting06",
+    "caption": "設定"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "cmdOk",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "cmdSetting01",
+    "caption": "設定"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "cmdSetting02",
+    "caption": "設定"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "cmdSetting03",
+    "caption": "設定"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "Label61",
+    "caption": "◆設定１"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "Label62",
+    "caption": "◆設定２"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "Label63",
+    "caption": "◆設定３"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "Label64",
+    "caption": "◆設定４"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "Label65",
+    "caption": "◆設定５"
+  },
+  {
+    "form": "frmSectionList",
+    "control": "Label66",
+    "caption": "◆設定６"
+  },
+  {
+    "form": "frmElectoric",
+    "control": "cmdOk",
+    "caption": "保存"
+  },
+  {
+    "form": "frmElectoric",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmElectoric",
+    "control": "Frame1",
+    "caption": "設定"
+  },
+  {
+    "form": "frmElectoric",
+    "control": "Label1",
+    "caption": "以下の文字列を半角に変換しない"
+  },
+  {
+    "form": "frmShape",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmShape",
+    "control": "Frame8",
+    "caption": "カスタムシェイプ"
+  },
+  {
+    "form": "frmShape",
+    "control": "cmdAdd",
+    "caption": "リスト追加"
+  },
+  {
+    "form": "frmShape",
+    "control": "cmdDel",
+    "caption": "リスト削除"
+  },
+  {
+    "form": "frmShape",
+    "control": "Frame12",
+    "caption": "シェイプの種類"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label16",
+    "caption": "リストの一番目がクイックアクセスツールバーやショートカットで張り付けられる印になります。"
+  },
+  {
+    "form": "frmShape",
+    "control": "Frame13",
+    "caption": "サイズ(ピン以外有効)"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label17",
+    "caption": "幅："
+  },
+  {
+    "form": "frmShape",
+    "control": "Label19",
+    "caption": "高さ："
+  },
+  {
+    "form": "frmShape",
+    "control": "Frame3",
+    "caption": "テキストの設定"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label1",
+    "caption": "テキストの初期値："
+  },
+  {
+    "form": "frmShape",
+    "control": "chkAutoSize",
+    "caption": "テキストに合わせて図形のサイズを調整する(ピンはOFF固定)"
+  },
+  {
+    "form": "frmShape",
+    "control": "chkOverflow",
+    "caption": "テキストを図形からはみ出して表示する(ピンはON固定)"
+  },
+  {
+    "form": "frmShape",
+    "control": "chkWordWrap",
+    "caption": "図形内でテキストを折り返す(ピンはOFF固定)"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label21",
+    "caption": "垂直方向："
+  },
+  {
+    "form": "frmShape",
+    "control": "Label23",
+    "caption": "水平方向："
+  },
+  {
+    "form": "frmShape",
+    "control": "Frame14",
+    "caption": "日付"
+  },
+  {
+    "form": "frmShape",
+    "control": "optSystemDate",
+    "caption": "システム日付"
+  },
+  {
+    "form": "frmShape",
+    "control": "optUserDate",
+    "caption": "指定日付"
+  },
+  {
+    "form": "frmShape",
+    "control": "cmdHelp",
+    "caption": "簡易ヘルプ"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label24",
+    "caption": "例1) ee.mm.dd → 26.01.01"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label11",
+    "caption": "例2) gee.mm.dd → H26.01.01"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label25",
+    "caption": "例3) ggee.mm.dd → 平26.01.01"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label26",
+    "caption": "例4) gggee.mm.dd → 平成26.01.01"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label27",
+    "caption": "和暦の形式例(2014/01/01)"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label28",
+    "caption": "日付の形式："
+  },
+  {
+    "form": "frmShape",
+    "control": "Label15",
+    "caption": "その他の書式詳しくは→"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label29",
+    "caption": "文言に日付を入れる場合に「$d」と入力してください。"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label30",
+    "caption": "フォント："
+  },
+  {
+    "form": "frmShape",
+    "control": "Label31",
+    "caption": "(ピンは左詰め固定)"
+  },
+  {
+    "form": "frmShape",
+    "control": "Label32",
+    "caption": "(ピンは中央固定)"
+  },
+  {
+    "form": "frmShape",
+    "control": "chkPrint",
+    "caption": "オブジェクトを印刷する"
+  },
+  {
+    "form": "frmShape",
+    "control": "Frame10",
+    "caption": "線"
+  },
+  {
+    "form": "frmShape",
+    "control": "OptionButton1",
+    "caption": "なし"
+  },
+  {
+    "form": "frmShape",
+    "control": "OptionButton2",
+    "caption": "単色"
+  },
+  {
+    "form": "frmShape",
+    "control": "Frame16",
+    "caption": "塗りつぶし"
+  },
+  {
+    "form": "frmShape",
+    "control": "OptionButton3",
+    "caption": "なし"
+  },
+  {
+    "form": "frmShape",
+    "control": "OptionButton4",
+    "caption": "単色"
+  },
+  {
+    "form": "frmSearchBox",
+    "control": "cmdReplace",
+    "caption": "置換"
+  },
+  {
+    "form": "frmSearchBox",
+    "control": "cmdNext",
+    "caption": "次へ"
+  },
+  {
+    "form": "frmSearchBox",
+    "control": "cmdAll",
+    "caption": "すべて置換"
+  },
+  {
+    "form": "frmSearchBox",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmSearchBox",
+    "control": "lblMsg",
+    "caption": "置換します。よろしいですか？"
+  },
+  {
+    "form": "frmCopyScreen",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmCopyScreen",
+    "control": "Frame2",
+    "caption": "背景色"
+  },
+  {
+    "form": "frmCopyScreen",
+    "control": "lblHead",
+    "caption": "背景色"
+  },
+  {
+    "form": "frmCopyScreen",
+    "control": "Frame6",
+    "caption": "色"
+  },
+  {
+    "form": "frmCopyScreen",
+    "control": "chkBackColor",
+    "caption": "背景色なし"
+  },
+  {
+    "form": "frmCopyScreen",
+    "control": "Frame7",
+    "caption": "表示"
+  },
+  {
+    "form": "frmCopyScreen",
+    "control": "chkLine",
+    "caption": "枠線"
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "cmdOk",
+    "caption": "出力"
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "Label4",
+    "caption": "エクスポートするワークブック："
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "Label5",
+    "caption": "VBAプロジェクトを含むブックを選択してください。"
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "Label6",
+    "caption": "この機能を実行するためには、オプション→セキュリティセンター→マクロの設定→「VBAプロジェクトオブジェクトモデルへのアクセスを信頼する」をチェックする必要があります。"
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "cmdFolder",
+    "caption": "フォルダを選択"
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "Label7",
+    "caption": "出力フォルダ："
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "lblBack",
+    "caption": "ワークブックを選択、出力フォルダを入力し、出力ボタンを押下してください。"
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "chkCategory",
+    "caption": "ファイルの種類ごとにフォルダを作成する"
+  },
+  {
+    "form": "frmSourceExport",
+    "control": "chkUTF8",
+    "caption": "UTF-8 に変換する"
+  },
+  {
+    "form": "frmGrid",
+    "control": "Frame1",
+    "caption": "ヘッダ行数"
+  },
+  {
+    "form": "frmGrid",
+    "control": "cmdOk",
+    "caption": "描画"
+  },
+  {
+    "form": "frmGrid",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmGrid",
+    "control": "Frame2",
+    "caption": "色指定"
+  },
+  {
+    "form": "frmGrid",
+    "control": "Label2",
+    "caption": "ヘッダ色"
+  },
+  {
+    "form": "frmGrid",
+    "control": "Label3",
+    "caption": "明細色"
+  },
+  {
+    "form": "frmGrid",
+    "control": "Label4",
+    "caption": "ヘッダ色"
+  },
+  {
+    "form": "frmGrid",
+    "control": "Label5",
+    "caption": "明細色"
+  },
+  {
+    "form": "frmGrid",
+    "control": "lblHead",
+    "caption": "ヘッダ色"
+  },
+  {
+    "form": "frmGrid",
+    "control": "lblEven",
+    "caption": "明細色"
+  },
+  {
+    "form": "frmGrid",
+    "control": "OptionButton1",
+    "caption": "青しま"
+  },
+  {
+    "form": "frmGrid",
+    "control": "OptionButton2",
+    "caption": "肌しま"
+  },
+  {
+    "form": "frmGrid",
+    "control": "OptionButton3",
+    "caption": "任意"
+  },
+  {
+    "form": "frmGrid",
+    "control": "OptionButton4",
+    "caption": "ヘッダのみ"
+  },
+  {
+    "form": "frmGrid",
+    "control": "Label10",
+    "caption": "ヘッダ色"
+  },
+  {
+    "form": "frmGrid",
+    "control": "Frame3",
+    "caption": "ヘッダ列数"
+  },
+  {
+    "form": "frmGrid",
+    "control": "Frame4",
+    "caption": "方眼紙設定"
+  },
+  {
+    "form": "frmGrid",
+    "control": "chkHoganMode",
+    "caption": "列ヘッダに文字のある場合に縦線を引く"
+  },
+  {
+    "form": "frmFileList",
+    "control": "Label1",
+    "caption": "ファイル一覧を取得するフォルダを入力してください。"
+  },
+  {
+    "form": "frmFileList",
+    "control": "Frame1",
+    "caption": "取得するファイル項目"
+  },
+  {
+    "form": "frmFileList",
+    "control": "chkFile",
+    "caption": "ファイル名"
+  },
+  {
+    "form": "frmFileList",
+    "control": "chkFolder",
+    "caption": "親フォルダ名"
+  },
+  {
+    "form": "frmFileList",
+    "control": "chkFileSize",
+    "caption": "ファイルサイズ"
+  },
+  {
+    "form": "frmFileList",
+    "control": "chkDate",
+    "caption": "更新日付"
+  },
+  {
+    "form": "frmFileList",
+    "control": "chkSubFolder",
+    "caption": "サブフォルダ以下のファイルも検索する。"
+  },
+  {
+    "form": "frmFileList",
+    "control": "cmdRun",
+    "caption": "取得"
+  },
+  {
+    "form": "frmFileList",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmFileList",
+    "control": "cmdFolder",
+    "caption": "フォルダを選択"
+  },
+  {
+    "form": "frmFileList",
+    "control": "chkFolders",
+    "caption": "フォルダも一覧に含める。"
+  },
+  {
+    "form": "frmFileList",
+    "control": "lblBack",
+    "caption": "フォルダを選択し、取得ボタンを押下してください。"
+  },
+  {
+    "form": "frmStamp",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Frame8",
+    "caption": "データ印"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Frame6",
+    "caption": "外枠"
+  },
+  {
+    "form": "frmStamp",
+    "control": "optLineDouble",
+    "caption": "二重線"
+  },
+  {
+    "form": "frmStamp",
+    "control": "optLineSingle",
+    "caption": "単線"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Frame2",
+    "caption": "上段"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Frame3",
+    "caption": "下段"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Frame1",
+    "caption": "中段"
+  },
+  {
+    "form": "frmStamp",
+    "control": "optSystemDate",
+    "caption": "システム日付"
+  },
+  {
+    "form": "frmStamp",
+    "control": "optUserDate",
+    "caption": "指定日付"
+  },
+  {
+    "form": "frmStamp",
+    "control": "optLineBold",
+    "caption": "太線"
+  },
+  {
+    "form": "frmStamp",
+    "control": "cmdHelp",
+    "caption": "簡易ヘルプ"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Label4",
+    "caption": "例1) ee.mm.dd → 26.01.01"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Frame10",
+    "caption": "印影色/サイズ"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Label11",
+    "caption": "例2) gee.mm.dd → H26.01.01"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Label12",
+    "caption": "例3) ggee.mm.dd → 平26.01.01"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Label13",
+    "caption": "例4) gggee.mm.dd → 平成26.01.01"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Label14",
+    "caption": "和暦の形式例(2014/01/01)"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Frame11",
+    "caption": "表示フォント"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Label3",
+    "caption": "日付の形式："
+  },
+  {
+    "form": "frmStamp",
+    "control": "Label15",
+    "caption": "その他の書式詳しくは→"
+  },
+  {
+    "form": "frmStamp",
+    "control": "cmdDel",
+    "caption": "リスト削除"
+  },
+  {
+    "form": "frmStamp",
+    "control": "cmdAdd",
+    "caption": "リスト追加"
+  },
+  {
+    "form": "frmStamp",
+    "control": "chkWordArt",
+    "caption": "文字を枠全体に表示"
+  },
+  {
+    "form": "frmStamp",
+    "control": "chkFill",
+    "caption": "背景の塗りつぶし(白)"
+  },
+  {
+    "form": "frmStamp",
+    "control": "chkConfirm",
+    "caption": "複数セルを選択して貼りつける場合に確認メッセージを表示しない"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Frame13",
+    "caption": "印影の傾き"
+  },
+  {
+    "form": "frmStamp",
+    "control": "Label23",
+    "caption": "社畜度："
+  },
+  {
+    "form": "frmStamp",
+    "control": "Label24",
+    "caption": "社畜度を高くすると左側(たいていの書類では上司印側)に印影が傾きます。"
+  },
+  {
+    "form": "frmSearchFusen",
+    "control": "Label2",
+    "caption": "内容"
+  },
+  {
+    "form": "frmSearchFusen",
+    "control": "Label3",
+    "caption": "シート名"
+  },
+  {
+    "form": "frmSearchFusen",
+    "control": "cmdOK",
+    "caption": "付箋をはがす"
+  },
+  {
+    "form": "frmSearchFusen",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmSearchFusen",
+    "control": "Label6",
+    "caption": "内容の詳細："
+  },
+  {
+    "form": "frmSearchFusen",
+    "control": "Label7",
+    "caption": "表示/非表示"
+  },
+  {
+    "form": "frmSearchFusen",
+    "control": "cmdDsp",
+    "caption": "表示"
+  },
+  {
+    "form": "frmSearchFusen",
+    "control": "cmdNoDsp",
+    "caption": "非表示"
+  },
+  {
+    "form": "frmCreateFolder",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmCreateFolder",
+    "control": "cmdRun",
+    "caption": "作成"
+  },
+  {
+    "form": "frmCreateFolder",
+    "control": "cmdFolder",
+    "caption": "フォルダを選択"
+  },
+  {
+    "form": "frmCreateFolder",
+    "control": "Label1",
+    "caption": "フォルダを入力してください。"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label1",
+    "caption": "テキストの初期値："
+  },
+  {
+    "form": "frmFusen",
+    "control": "chkPrint",
+    "caption": "オブジェクトを印刷する"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Frame1",
+    "caption": "付箋の属性の初期値"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label3",
+    "caption": "(付箋紙を識別するための名前です。代替テキストに設定されます。)"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label4",
+    "caption": "以下の設定が新規に付箋を貼りつけた際に適用されます"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label17",
+    "caption": "幅："
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label19",
+    "caption": "高さ："
+  },
+  {
+    "form": "frmFusen",
+    "control": "chkAutoSize",
+    "caption": "テキストに合わせて図形のサイズを調整する(ピンはOFF固定)"
+  },
+  {
+    "form": "frmFusen",
+    "control": "chkOverflow",
+    "caption": "テキストを図形からはみ出して表示する(ピンはON固定)"
+  },
+  {
+    "form": "frmFusen",
+    "control": "chkWordWrap",
+    "caption": "図形内でテキストを折り返す(ピンはOFF固定)"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Frame2",
+    "caption": "サイズ(ピン以外有効)"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Frame3",
+    "caption": "テキストの設定"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Frame4",
+    "caption": "オブジェクトの設定"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Frame5",
+    "caption": "付箋紙を識別するための名前"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label21",
+    "caption": "垂直方向："
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label22",
+    "caption": "水平方向："
+  },
+  {
+    "form": "frmFusen",
+    "control": "Frame6",
+    "caption": "日付"
+  },
+  {
+    "form": "frmFusen",
+    "control": "optSystemDate",
+    "caption": "システム日付"
+  },
+  {
+    "form": "frmFusen",
+    "control": "optUserDate",
+    "caption": "指定日付"
+  },
+  {
+    "form": "frmFusen",
+    "control": "cmdHelp",
+    "caption": "簡易ヘルプ"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label23",
+    "caption": "例1) ee.mm.dd → 26.01.01"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label11",
+    "caption": "例2) gee.mm.dd → H26.01.01"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label12",
+    "caption": "例3) ggee.mm.dd → 平26.01.01"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label13",
+    "caption": "例4) gggee.mm.dd → 平成26.01.01"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label14",
+    "caption": "和暦の形式例(2014/01/01)"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label24",
+    "caption": "日付の形式："
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label15",
+    "caption": "その他の書式詳しくは→"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label25",
+    "caption": "文言に日付を入れる場合に「$d」と入力してください。"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label26",
+    "caption": "フォント："
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label27",
+    "caption": "(ピンは左詰め固定)"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label28",
+    "caption": "(ピンは中央固定)"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Frame7",
+    "caption": "ユーザID"
+  },
+  {
+    "form": "frmFusen",
+    "control": "Label29",
+    "caption": "文言にユーザ名を入れる場合に「$u」と入力してください。"
+  },
+  {
+    "form": "frmFusen",
+    "control": "lblUser",
+    "caption": "ユーザ名："
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Frame8",
+    "caption": "認め印"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Frame6",
+    "caption": "外枠"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "optLineDouble",
+    "caption": "小判形"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "optLineSingle",
+    "caption": "円形"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Frame2",
+    "caption": "名前"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Frame7",
+    "caption": "表示フォント"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Frame10",
+    "caption": "印影色/サイズ"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "cmdAdd",
+    "caption": "リスト追加"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "cmdDel",
+    "caption": "リスト削除"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Frame11",
+    "caption": "画像ファイル名"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Label1",
+    "caption": "BMP/JPEG/GIF/PNGなどExcelで扱える画像ファイルを指定してください。"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Frame12",
+    "caption": "スタンプの種類"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "optFile",
+    "caption": "画像ファイル"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "optNormal",
+    "caption": "通常"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Label13",
+    "caption": "長辺の幅："
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Label14",
+    "caption": "外枠："
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Label22",
+    "caption": "角丸："
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "optLineBold",
+    "caption": "四角形"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "fraRotate",
+    "caption": "文字の方向"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "optHolizontal",
+    "caption": "横書き(小判形は出来ません)"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "optVertical",
+    "caption": "縦書き"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Frame13",
+    "caption": "印影の傾き"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "chkFill",
+    "caption": "背景を塗りつぶす(白)"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "chkConfirm",
+    "caption": "複数セルを選択して貼りつける場合に確認メッセージを表示しない"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Frame14",
+    "caption": "動作"
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Label23",
+    "caption": "社畜度："
+  },
+  {
+    "form": "frmStampMitome",
+    "control": "Label24",
+    "caption": "社畜度を高くすると左側(たいていの書類では上司印側)に印影が傾きます。"
+  },
+  {
+    "form": "frmComp",
+    "control": "cmdOk",
+    "caption": "比較"
+  },
+  {
+    "form": "frmComp",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmComp",
+    "control": "Label4",
+    "caption": "比較元："
+  },
+  {
+    "form": "frmComp",
+    "control": "chkSrcColor",
+    "caption": "不一致の比較「元」の背景色を変更する（黄）"
+  },
+  {
+    "form": "frmComp",
+    "control": "lblBack",
+    "caption": "比較対象を入力し、比較ボタンを押下してください。"
+  },
+  {
+    "form": "frmComp",
+    "control": "Label5",
+    "caption": "比較先："
+  },
+  {
+    "form": "frmComp",
+    "control": "chkDstColor",
+    "caption": "不一致の比較「先」の背景色を変更する（赤）"
+  },
+  {
+    "form": "frmImportKey",
+    "control": "cmdOk",
+    "caption": "現在のキー定義に追加"
+  },
+  {
+    "form": "frmImportKey",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmImportKey",
+    "control": "cmdClear",
+    "caption": "現在のキー定義をクリアして追加"
+  },
+  {
+    "form": "frmImportKey",
+    "control": "Label1",
+    "caption": "以下のキー定義を取り込みます。よろしいですか？"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "cmdOK",
+    "caption": "設定"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Frame1",
+    "caption": "画像の張付"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "chkPageBreakEnable",
+    "caption": "改ページ(水平)を設定する"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "chkZoomEnable",
+    "caption": "画像を縮小する"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "chkSave",
+    "caption": "画像を貼りつけるたびにブックを保存する"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Frame2",
+    "caption": "画像の間隔"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Label1",
+    "caption": "画像と画像の間を"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Label2",
+    "caption": "行空ける"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Label3",
+    "caption": "貼りつけた画像の"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Label4",
+    "caption": "行後"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Label7",
+    "caption": "％に縮小する"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Frame3",
+    "caption": "貼り付け後の所作"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Frame4",
+    "caption": "クリップボード設定"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Label9",
+    "caption": "待ち時間"
+  },
+  {
+    "form": "frmScreenSetting",
+    "control": "Label10",
+    "caption": "張り付けがうまくいかない場合に調整してください。"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "lblMessage",
+    "caption": "クリップボードの監視を開始します。"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "cmdOK",
+    "caption": "開始"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "Label1",
+    "caption": "不安定になる場合がありますので"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "Label2",
+    "caption": "事前に文書を保存しておいてください。"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "Label3",
+    "caption": "・必ずExcelスクショボタンで終了させてください。"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "Label4",
+    "caption": "・作業中はブック、シートを閉じないでください。"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "Label5",
+    "caption": "・作業中はExcelを終了させないでください。"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "Label6",
+    "caption": "画像がクリップボードにコピーされると自動的にExcelに貼りつけます。"
+  },
+  {
+    "form": "frmScreenShot",
+    "control": "Label7",
+    "caption": "・この機能はVista以降で動作します。XP動作不可"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "cmdOk",
+    "caption": "カウント"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label4",
+    "caption": "カウントするワークブック："
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label5",
+    "caption": "VBAプロジェクトを含むブックを選択してください。"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label6",
+    "caption": "この機能を実行するためには、オプション→セキュリティセンター→マクロの設定→「VBAプロジェクトオブジェクトモデルへのアクセスを信頼する」をチェックする必要があります。"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label7",
+    "caption": "ステップカウントの例"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label8",
+    "caption": "実行： 11行"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label9",
+    "caption": "ｺﾒﾝﾄ：  3行"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label10",
+    "caption": "空白：  8行"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label11",
+    "caption": "全て： 22行"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label12",
+    "caption": "と、なります。"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label13",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label18",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label19",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label20",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label21",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label22",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label23",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label24",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label25",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label26",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label27",
+    "caption": "→実行と判定"
+  },
+  {
+    "form": "frmStepCount",
+    "control": "Label28",
+    "caption": "以下のようなコーディングだと"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "Label1",
+    "caption": "割り当て可能な機能(ヘッダ部分で絞り込みが可能です）"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "Label2",
+    "caption": "カテゴリ"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "Label6",
+    "caption": "機能名"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "cmdSave",
+    "caption": "設定"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "cmdAdd",
+    "caption": "追加"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "Label17",
+    "caption": "メニュー名"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "Label19",
+    "caption": "機能名"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "Label21",
+    "caption": "設定中のメニュー"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "cmdDel",
+    "caption": "削除"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "Label22",
+    "caption": "RelaxTools のほぼすべての機能を右クリックメニューで実行することが可能です。"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "cmdAddMenu",
+    "caption": "メニュー追加"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "cmdSep",
+    "caption": "セパレータ追加"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "cmdAddSubMenu",
+    "caption": "サブメニュー追加"
+  },
+  {
+    "form": "frmContextMenu",
+    "control": "Label25",
+    "caption": "メニューを右クリックするとメニューのコピーが可能です。"
+  },
+  {
+    "form": "frmStyle",
+    "control": "Label8",
+    "caption": "スタイル名"
+  },
+  {
+    "form": "frmStyle",
+    "control": "cmdDel",
+    "caption": "削除"
+  },
+  {
+    "form": "frmStyle",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmStyle",
+    "control": "cmdAll",
+    "caption": "全て削除"
+  },
+  {
+    "form": "frmStyle",
+    "control": "lblBack",
+    "caption": "検索ボタンを押してください。"
+  },
+  {
+    "form": "frmStyle",
+    "control": "cmdSearch",
+    "caption": "検索"
+  },
+  {
+    "form": "frmStyle",
+    "control": "Frame1",
+    "caption": "検索条件"
+  },
+  {
+    "form": "frmStyle",
+    "control": "chkStyle",
+    "caption": "使用されていないスタイル"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "chkCase",
+    "caption": "大文字/小文字を区別"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Label4",
+    "caption": "検索条件："
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "chkRegEx",
+    "caption": "正規表現"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Label7",
+    "caption": "検索オブジェクト："
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Label1",
+    "caption": "フォルダ："
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "chkSubFolder",
+    "caption": "サブフォルダ以下のファイルも検索"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Label8",
+    "caption": "ファイル："
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "lblBack",
+    "caption": "検索条件を入力し、Grepボタンを押下してください。"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "cmdHelp",
+    "caption": "正規表現ヘルプ"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Label9",
+    "caption": "検索対象："
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "chkZenHan",
+    "caption": "半角/全角を区別(セル検索＆正規表現以外で有効)"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Label10",
+    "caption": "読取パスワード："
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Label11",
+    "caption": "(カンマ区切で複数可)"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Frame1",
+    "caption": "オプション"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "chkFirstSheet",
+    "caption": "１シート目のみ検索対象とする"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "chkOffset",
+    "caption": "Grepでヒットしたセルから以下の相対位置のセルを取得"
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Label13",
+    "caption": "行："
+  },
+  {
+    "form": "frmGrepMulti",
+    "control": "Label14",
+    "caption": "列："
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "cmdInit",
+    "caption": "初期状態に戻す"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "Frame10",
+    "caption": "カーソル形状"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "optAll",
+    "caption": "両方"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "optVertical",
+    "caption": "列のみ"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "optHolizon",
+    "caption": "行のみ"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "chkGuid",
+    "caption": "表示する"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "Frame12",
+    "caption": "ガイド"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "fraFill",
+    "caption": "塗りつぶし"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "fraFillColor",
+    "caption": "色"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "lblFillColor",
+    "caption": "背景色"
+  },
+  {
+    "form": "frmCrossLine",
+    "control": "fraFillTransparency",
+    "caption": "透明度"
+  },
+  {
+    "form": "frmInputStr",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmInputStr",
+    "control": "Frame1",
+    "caption": "追加文字列"
+  },
+  {
+    "form": "frmInputStr",
+    "control": "Label1",
+    "caption": "改行を入れる場合\\nを指定する。"
+  },
+  {
+    "form": "frmFavEdit",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmFavEdit",
+    "control": "Label1",
+    "caption": "ファイル名(フルパス)："
+  },
+  {
+    "form": "frmContextMenuAdd",
+    "control": "lblCat",
+    "caption": "カテゴリーの追加"
+  },
+  {
+    "form": "frmContextMenuAdd",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmFavorite",
+    "control": "lblBook",
+    "caption": "ブック名"
+  },
+  {
+    "form": "frmFavorite",
+    "control": "lblMsg",
+    "caption": "一覧への追加はエクスプローラからのコピペで可能です。Excelファイル以外のファイル、Word、PowerPoint、フォルダも追加可能です。"
+  },
+  {
+    "form": "frmFavorite",
+    "control": "Label6",
+    "caption": "カテゴリ"
+  },
+  {
+    "form": "frmFavorite",
+    "control": "chkDetail",
+    "caption": "ファイルの詳細を表示"
+  },
+  {
+    "form": "frmScroll",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmScroll",
+    "control": "Frame1",
+    "caption": "設定するホイール量"
+  },
+  {
+    "form": "frmScroll",
+    "control": "Label1",
+    "caption": "スクロール行数（小）"
+  },
+  {
+    "form": "frmScroll",
+    "control": "Label2",
+    "caption": "規定のスクロール行数"
+  },
+  {
+    "form": "frmScroll",
+    "control": "Label3",
+    "caption": "行"
+  },
+  {
+    "form": "frmScroll",
+    "control": "Label4",
+    "caption": "行"
+  },
+  {
+    "form": "frmScroll",
+    "control": "Label5",
+    "caption": "コントロールパネルのマウス設定で指定する内容と同様となります。全てのプログラムで有効になるので注意してください。"
+  },
+  {
+    "form": "frmHtml",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmHtml",
+    "control": "Frame1",
+    "caption": "生成オプション"
+  },
+  {
+    "form": "frmHtml",
+    "control": "Frame2",
+    "caption": "枠線"
+  },
+  {
+    "form": "frmHtml",
+    "control": "optLine1",
+    "caption": "あり"
+  },
+  {
+    "form": "frmHtml",
+    "control": "optLine2",
+    "caption": "無し"
+  },
+  {
+    "form": "frmHtml",
+    "control": "Frame4",
+    "caption": "文字色/背景色"
+  },
+  {
+    "form": "frmHtml",
+    "control": "optColor1",
+    "caption": "指定なし"
+  },
+  {
+    "form": "frmHtml",
+    "control": "optColor2",
+    "caption": "Excel表に合わせる"
+  },
+  {
+    "form": "frmHtml",
+    "control": "Frame5",
+    "caption": "ヘッダ（１行目）"
+  },
+  {
+    "form": "frmHtml",
+    "control": "optTag1",
+    "caption": "通常 - <td>"
+  },
+  {
+    "form": "frmHtml",
+    "control": "optTag2",
+    "caption": "強調 - <th>"
+  },
+  {
+    "form": "frmHtml",
+    "control": "Frame6",
+    "caption": "列の幅（％指定）"
+  },
+  {
+    "form": "frmHtml",
+    "control": "optWidth1",
+    "caption": "指定なし"
+  },
+  {
+    "form": "frmHtml",
+    "control": "optWidth2",
+    "caption": "Excel表に合わせる"
+  },
+  {
+    "form": "frmHtml",
+    "control": "cmdPreview",
+    "caption": "プレビュー"
+  },
+  {
+    "form": "frmRedmine",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmRedmine",
+    "control": "chkHead",
+    "caption": "表の１行目を強調(HTMLでいうと<th>)する"
+  },
+  {
+    "form": "frmRedmine",
+    "control": "chkColor",
+    "caption": "色情報も変換する"
+  },
+  {
+    "form": "frmGrammer",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmGrammer",
+    "control": "cmdOk",
+    "caption": "チェック"
+  },
+  {
+    "form": "frmGrammer",
+    "control": "Label6",
+    "caption": "検索範囲："
+  },
+  {
+    "form": "frmGrammer",
+    "control": "Label7",
+    "caption": "検索オブジェクト："
+  },
+  {
+    "form": "frmGrammer",
+    "control": "lblPlace",
+    "caption": "発見場所(シート)"
+  },
+  {
+    "form": "frmGrammer",
+    "control": "lblSearch",
+    "caption": "指摘内容"
+  },
+  {
+    "form": "frmGrammer",
+    "control": "lblObj",
+    "caption": "オブジェクト"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Frame1",
+    "caption": "繰り返し"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "chkOnRepeat",
+    "caption": "RelaxToolsのコマンドを繰り返し(CTRL+Y)に登録する。"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Frame2",
+    "caption": "セル編集の高速化"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "chkNotHoldFormat",
+    "caption": "以下の処理で書式を保持しない"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Label1",
+    "caption": "チェックするとセル編集の際に文字の一部の書式(文字色やフォント、強調など)を保持しなくなります。その代り処理が高速になります。"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "lblTaisho",
+    "caption": "対象コマンド"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Frame3",
+    "caption": "ログの設定"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Label2",
+    "caption": "ログレベル"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Frame4",
+    "caption": "出力先"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "optDebugWindow",
+    "caption": "イミディエイト"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "optLogfile",
+    "caption": "ログファイル"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "optAll",
+    "caption": "両方"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "cmdOpen",
+    "caption": "ログフォルダを開く"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Label3",
+    "caption": "※Excel再起動後に有効になります。"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Frame6",
+    "caption": "かんたん表Dx/付箋/電子職印の動作が不安定な場合"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "lblSleep",
+    "caption": "NetBeansやSqlDeveloperなどのJavaアプリやクリップボードを扱うツール同時使用した際に不安定になる場合に数値を大きくしてください。0～500ms"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Frame7",
+    "caption": "Excel常駐モード"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "chkRegidentMode",
+    "caption": "ブックをすべて閉じてもExcelを終了しない"
+  },
+  {
+    "form": "frmCommonOption",
+    "control": "Label12",
+    "caption": "Excel起動時のレスポンス向上が見込めます。ブック表示の無いウィンドウを閉じるとExcelが終了します。"
+  },
+  {
+    "form": "frmHoldBook",
+    "control": "cmdDel",
+    "caption": "行削除"
+  },
+  {
+    "form": "frmHoldBook",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmHoldBook",
+    "control": "Label2",
+    "caption": "ブック名"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdSubmit",
+    "caption": "変更内容を反映"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdSelect",
+    "caption": "シート選択(Alt+S)"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "Label2",
+    "caption": "シート名"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "Label3",
+    "caption": "表示"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "Frame1",
+    "caption": "並び替え"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdAsc",
+    "caption": "昇順"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdDesc",
+    "caption": "降順"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "Frame2",
+    "caption": "表示／非表示"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdHide",
+    "caption": "非表示"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdShow",
+    "caption": "表示"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "Frame3",
+    "caption": "シート削除"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdUndo",
+    "caption": "解除"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdDel",
+    "caption": "削除"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdInitialize",
+    "caption": "初期状態に戻す"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdUp",
+    "caption": "上に移動"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdDown",
+    "caption": "下に移動"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "Label5",
+    "caption": "←リストは複数行選択可能です。すべてのボタンは複数行に対応しています。"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdPrint",
+    "caption": "印刷プレビュー"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "cmdSaveBook",
+    "caption": "ブックにして保存"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "Label6",
+    "caption": "便利な並び替え：行選択してから並び替えを行うと一部のシートのみを並び替え可能です。"
+  },
+  {
+    "form": "frmSheetManager",
+    "control": "Label7",
+    "caption": "シート名変更："
+  },
+  {
+    "form": "frmCheckList",
+    "control": "Label2",
+    "caption": "なし"
+  },
+  {
+    "form": "frmCheckList",
+    "control": "chkHead",
+    "caption": "上"
+  },
+  {
+    "form": "frmCheckList",
+    "control": "Frame1",
+    "caption": "外周に線を引く"
+  },
+  {
+    "form": "frmCheckList",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmCheckList",
+    "control": "chkBottom",
+    "caption": "下"
+  },
+  {
+    "form": "frmCheckList",
+    "control": "chkLeft",
+    "caption": "左"
+  },
+  {
+    "form": "frmCheckList",
+    "control": "chkRight",
+    "caption": "右"
+  },
+  {
+    "form": "frmCheckList",
+    "control": "Frame2",
+    "caption": "線スタイル"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "cmdOk",
+    "caption": "設定"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "Frame1",
+    "caption": "流すネタ"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "chkSushi",
+    "caption": "鮪"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "chkBeer",
+    "caption": "玉子"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "chkTea",
+    "caption": "いくら"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "chkRamen",
+    "caption": "海老"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "fra",
+    "caption": "皿"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "Label1",
+    "caption": "スピード"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "Label2",
+    "caption": "皿の枚数"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "CheckBox1",
+    "caption": "烏賊"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "CheckBox2",
+    "caption": "蛸"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "CheckBox3",
+    "caption": "鮭"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "CheckBox4",
+    "caption": "鯖"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "CheckBox5",
+    "caption": "雲丹"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "CheckBox6",
+    "caption": "帆立"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "CheckBox7",
+    "caption": "穴子"
+  },
+  {
+    "form": "frmSushiSetting",
+    "control": "CheckBox8",
+    "caption": "甘海老"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Frame1",
+    "caption": "設定"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Frame4",
+    "caption": "方眼紙設定"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "chkHoganMode",
+    "caption": "列ヘッダに文字のある場合に縦線を引く"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "chkAutoHogan",
+    "caption": "自動判定"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "lblJudge",
+    "caption": "判定する行指定："
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Frame3",
+    "caption": "ヘッダ列数"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Frame5",
+    "caption": "ヘッダ行数"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Label20",
+    "caption": "名前："
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "cmdDel",
+    "caption": "リスト削除"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "cmdAdd",
+    "caption": "リスト複写"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Frame10",
+    "caption": "色"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Label15",
+    "caption": "ヘッダ色："
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "lblEvenLabel",
+    "caption": "明細色："
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "chkLineColor",
+    "caption": "明細色を有効にする"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Frame9",
+    "caption": "線"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Label10",
+    "caption": "外周線："
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Label11",
+    "caption": "列ヘッダ線："
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Label12",
+    "caption": "行ヘッダ線："
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Label13",
+    "caption": "横中線："
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Label14",
+    "caption": "縦中線："
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Label16",
+    "caption": "スタイルを選択してから設定したい枠をクリック"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "chkHRepeat",
+    "caption": "中間線あり"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "chkVRepeat",
+    "caption": "中間線あり"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Label2",
+    "caption": "なし"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "lblHead",
+    "caption": "ヘッダ色"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "lblEven",
+    "caption": "明細色"
+  },
+  {
+    "form": "frmKantanDx",
+    "control": "Frame11",
+    "caption": "スタイル"
+  },
+  {
+    "form": "frmMarkdown",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmMarkdown",
+    "control": "Label1",
+    "caption": "1行目の左寄せ、中央寄せ、右寄せが全体に有効になります。"
+  },
+  {
+    "form": "frmBinary",
+    "control": "lblHead18",
+    "caption": "文字列"
+  },
+  {
+    "form": "frmBinary",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmFormatSql",
+    "control": "cmdOk",
+    "caption": "保存"
+  },
+  {
+    "form": "frmFormatSql",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmFormatSql",
+    "control": "Frame1",
+    "caption": "設定"
+  },
+  {
+    "form": "frmFormatSql",
+    "control": "chkRightComma",
+    "caption": "前カンマにする"
+  },
+  {
+    "form": "frmFormatSql",
+    "control": "chkUpperCase",
+    "caption": "予約語を強制的に大文字に変換する"
+  },
+  {
+    "form": "frmFormatSql",
+    "control": "Label1",
+    "caption": "（関数名と判定できるものについても変換します。辞書を参照するため処理速度が遅くなります。）"
+  },
+  {
+    "form": "frmKana",
+    "control": "Frame1",
+    "caption": "変換の設定"
+  },
+  {
+    "form": "frmKana",
+    "control": "Label1",
+    "caption": "ひらがな変換と"
+  },
+  {
+    "form": "frmKana",
+    "control": "Label2",
+    "caption": "カタカナ変換の範囲"
+  },
+  {
+    "form": "frmKana",
+    "control": "chkKatakanaConv",
+    "caption": "小文字の「カ」「ケ」をひらがなに変換する。"
+  },
+  {
+    "form": "frmKana",
+    "control": "Label3",
+    "caption": "小文字の「か」「け」（ひらがな）はSJISに存在しない文字で、漢字と一緒に使用する(保土ヶ谷などの地名)のが一般的であるため、思わぬ結果になる可能性がありますのでご注意ください。"
+  },
+  {
+    "form": "frmKana",
+    "control": "cmdRun",
+    "caption": "設定"
+  },
+  {
+    "form": "frmKana",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmKana",
+    "control": "Label4",
+    "caption": "ひらがな⇔カタカナ変換の対象範囲"
+  },
+  {
+    "form": "frmA1Setting",
+    "control": "cmdOk",
+    "caption": "保存"
+  },
+  {
+    "form": "frmA1Setting",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmA1Setting",
+    "control": "Frame1",
+    "caption": "設定"
+  },
+  {
+    "form": "frmA1Setting",
+    "control": "chkRatio",
+    "caption": "ホームポジション設定時に倍率を変更する"
+  },
+  {
+    "form": "frmA1Setting",
+    "control": "Label1",
+    "caption": "％に変更する"
+  },
+  {
+    "form": "frmA1Setting",
+    "control": "chkView",
+    "caption": "ブックの表示方法を変更する"
+  },
+  {
+    "form": "frmA1Setting",
+    "control": "Label2",
+    "caption": "に変更する"
+  },
+  {
+    "form": "frmReport",
+    "control": "Label4",
+    "caption": "バグ情報・不具合情報がありましたらお知らせください。"
+  },
+  {
+    "form": "frmReport",
+    "control": "cmdClip",
+    "caption": "クリップボードにコピー"
+  },
+  {
+    "form": "frmGrep",
+    "control": "chkCase",
+    "caption": "大文字/小文字を区別"
+  },
+  {
+    "form": "frmGrep",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmGrep",
+    "control": "Label4",
+    "caption": "検索条件："
+  },
+  {
+    "form": "frmGrep",
+    "control": "chkRegEx",
+    "caption": "正規表現"
+  },
+  {
+    "form": "frmGrep",
+    "control": "Label7",
+    "caption": "検索オブジェクト："
+  },
+  {
+    "form": "frmGrep",
+    "control": "Label1",
+    "caption": "フォルダ："
+  },
+  {
+    "form": "frmGrep",
+    "control": "chkSubFolder",
+    "caption": "サブフォルダ以下のファイルも検索"
+  },
+  {
+    "form": "frmGrep",
+    "control": "Label8",
+    "caption": "ファイル："
+  },
+  {
+    "form": "frmGrep",
+    "control": "lblBack",
+    "caption": "検索条件を入力し、Grepボタンを押下してください。"
+  },
+  {
+    "form": "frmGrep",
+    "control": "cmdHelp",
+    "caption": "正規表現ヘルプ"
+  },
+  {
+    "form": "frmGrep",
+    "control": "Label9",
+    "caption": "検索対象："
+  },
+  {
+    "form": "frmGrep",
+    "control": "chkZenHan",
+    "caption": "半角/全角を区別(セル検索＆正規表現以外で有効)"
+  },
+  {
+    "form": "frmGrep",
+    "control": "Label10",
+    "caption": "読取パスワード："
+  },
+  {
+    "form": "frmGrep",
+    "control": "Label11",
+    "caption": "(カンマ区切で複数可)"
+  },
+  {
+    "form": "frmGrep",
+    "control": "Frame1",
+    "caption": "オプション"
+  },
+  {
+    "form": "frmGrep",
+    "control": "Label12",
+    "caption": "※ネットワークドライブを検索すると遅くなります。ローカルフォルダにコピーしてから検索してください。"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label1",
+    "caption": "割り当て可能な機能(ヘッダ部分で絞り込みが可能です）"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label2",
+    "caption": "カテゴリ"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label6",
+    "caption": "機能名"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "cmdSave",
+    "caption": "設定"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "cmdAdd",
+    "caption": "追加"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label16",
+    "caption": "割り当て可能なショートカットキー"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label17",
+    "caption": "キー名称"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label19",
+    "caption": "カテゴリ"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label20",
+    "caption": "機能名"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label21",
+    "caption": "設定中のショートカットキー"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "cmdDel",
+    "caption": "削除"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label22",
+    "caption": "RelaxTools のほぼすべての機能をショートカットで実行することが可能です。"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label23",
+    "caption": "シフトキー ＋　キー"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label25",
+    "caption": "【参考】Excel標準のショートカットキー情報　同じキーに設定するとRelaxToolsの設定を優先します。(Windows使用キー以外)"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label26",
+    "caption": "↑　リストをダブルクリックすると設定内容で割り当て中の内容を指し示します。"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "cmdImport",
+    "caption": "インポート"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Frame1",
+    "caption": "キー定義のインポート/エクスポート"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "cmdExport",
+    "caption": "エクスポート"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Label27",
+    "caption": "有効"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "cmdEneble",
+    "caption": "有効"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "cmdDisable",
+    "caption": "無効"
+  },
+  {
+    "form": "frmHotKey",
+    "control": "Frame2",
+    "caption": "キーの有効/無効"
+  },
+  {
+    "form": "frmFavCategory",
+    "control": "lblCat",
+    "caption": "カテゴリーの追加"
+  },
+  {
+    "form": "frmFavCategory",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmMergeFile",
+    "control": "Label1",
+    "caption": "マージ対象のExcelファイルが入ったフォルダを入力してください。"
+  },
+  {
+    "form": "frmMergeFile",
+    "control": "chkLink",
+    "caption": "リンクを削除する"
+  },
+  {
+    "form": "frmMergeFile",
+    "control": "cmdRun",
+    "caption": "マージ"
+  },
+  {
+    "form": "frmMergeFile",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmMergeFile",
+    "control": "cmdFolder",
+    "caption": "フォルダを選択"
+  },
+  {
+    "form": "frmMergeFile",
+    "control": "lblBack",
+    "caption": "フォルダを選択し、取得ボタンを押下してください。"
+  },
+  {
+    "form": "frmTimeLeapSetting",
+    "control": "cmdSave",
+    "caption": "設定の保存"
+  },
+  {
+    "form": "frmTimeLeapSetting",
+    "control": "cmdCancel",
+    "caption": "キャンセル"
+  },
+  {
+    "form": "frmTimeLeapSetting",
+    "control": "Label13",
+    "caption": "履歴ファイル作成フォルダ（容量が十分あるローカルフォルダ推奨）"
+  },
+  {
+    "form": "frmTimeLeapSetting",
+    "control": "Label14",
+    "caption": "１つのブックにつき管理する最大の数(1～99)："
+  },
+  {
+    "form": "frmTimeLeapSetting",
+    "control": "Frame2",
+    "caption": "DIFFツール"
+  },
+  {
+    "form": "frmTimeLeapSetting",
+    "control": "Label15",
+    "caption": "コマンドライン引数："
+  },
+  {
+    "form": "frmTimeLeapSetting",
+    "control": "Label16",
+    "caption": "ExcelMerge や WinMerge をブックの比較に使用可能です。"
+  },
+  {
+    "form": "frmTimeLeap",
+    "control": "lblBook",
+    "caption": "詳細"
+  },
+  {
+    "form": "frmTimeLeap",
+    "control": "Label6",
+    "caption": "更新日付"
+  },
+  {
+    "form": "frmTimeLeap",
+    "control": "Label7",
+    "caption": "履歴"
+  },
+  {
+    "form": "frmStaticCheck",
+    "control": "lblPlace",
+    "caption": "シート"
+  },
+  {
+    "form": "frmStaticCheck",
+    "control": "lblObj",
+    "caption": "セル"
+  },
+  {
+    "form": "frmStaticCheck",
+    "control": "lblSearch",
+    "caption": "チェック結果"
+  },
+  {
+    "form": "frmStaticCheck",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmStaticCheck",
+    "control": "cmdOk",
+    "caption": "チェック"
+  },
+  {
+    "form": "frmStaticCheck",
+    "control": "Label6",
+    "caption": "チェックルール"
+  },
+  {
+    "form": "frmStaticCheck",
+    "control": "cmdAll",
+    "caption": "全選択"
+  },
+  {
+    "form": "frmStaticCheck",
+    "control": "cmdClear",
+    "caption": "全解除"
+  },
+  {
+    "form": "frmStaticCheck",
+    "control": "Label13",
+    "caption": "件"
+  },
+  {
+    "form": "frmMulti",
+    "control": "Label1",
+    "caption": "別プロセスのＥｘｃｅｌを起動中..."
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "cmdCancel",
+    "caption": "閉じる"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "cmdOk",
+    "caption": "検索"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "Label4",
+    "caption": "検索文字列："
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "Label6",
+    "caption": "検索範囲："
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "Label7",
+    "caption": "検索オブジェクト："
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "cmdReplace",
+    "caption": "置換"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "Label9",
+    "caption": "置換文字列："
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "chkCase",
+    "caption": "大文字/小文字を区別する"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "chkRegEx",
+    "caption": "正規表現を使用する"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "cmdHelp",
+    "caption": "正規表現ヘルプ"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "lblPlace",
+    "caption": "発見場所(シート)"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "lblSearch",
+    "caption": "検索文字列"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "lblObj",
+    "caption": "オブジェクト"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "Label10",
+    "caption": "検索対象："
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "Label11",
+    "caption": "(置換時は【式】固定です)"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "Frame1",
+    "caption": "検索オプション"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "Label12",
+    "caption": "ワンポイント：正規表現有効時、置換文字列で使える制御文字は(\\\\,\\n,\\r,\\t)通常、Excelの改行は\\n=LFです。"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "chkSmartArt",
+    "caption": "シェイプ検索に SmartArt を含める(β版)"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "chkZenHan",
+    "caption": "半角/全角を区別(セル検索＆正規表現以外で有効)"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "lblColor",
+    "caption": "文字色"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "Label13",
+    "caption": "文字修飾："
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "cmdMarkup",
+    "caption": "実行"
+  },
+  {
+    "form": "frmSearchEx",
+    "control": "chkDefault",
+    "caption": "文字修飾なし＆規定色（自動）"
+  }
+]
